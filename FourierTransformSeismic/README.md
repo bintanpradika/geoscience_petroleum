@@ -1,4 +1,4 @@
-0. The objective of this project is to perform pre-processing of noisy seismic data using Fourier Transform.
+0. The objective of this project is to perform pre-processing of noisy seismic data using Fourier Transform to get clean image of 2D crop seismic. It is one kind of method that is very popular in oil and gas industry, especially in area of geoscience
 1. FYI, noisy_seismic.npy has two array dimension (table). Row is TWT (Two Way Travel Time, in ms) and column is the trace (distance from the source seismic pulse). No need to open this file
 2. Open the .ipynb file preferrably in google collabs to understand the structure of this .ipynb. You can achive this by replace "github.com" to "colab.research.google.com/github". For example, the URL on GitHub is https://github.com/bintanpradika/geoscience_petroleum/blob/main/FourierTransformSeismic/FourierTransformSeismic.ipynb , it should be replaced to https://colab.research.google.com/github/bintanpradika/geoscience_petroleum/blob/main/FourierTransformSeismic/FourierTransformSeismic.ipynb 
 3. Copy the colab.research.google to you your drive by clicking "copy to drive"
